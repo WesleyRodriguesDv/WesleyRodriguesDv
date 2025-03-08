@@ -2,10 +2,13 @@
   <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
 
-# [Seu Nome]
+# [Wesley Rodrigues]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[https://www.linkedin.com/in/wesley-rodrigues-66b675304/]-blue?logo=linkedin)](https://www.linkedin.com/in/[https://www.linkedin.com/in/wesley-rodrigues-66b675304/])
-[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
+<div> 
+  <a href = "mailto:wesleyrodriiguesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wesley-rodrigues-66b675304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ## 👋 Olá!
 
@@ -15,27 +18,28 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=node,express)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
 
+- O que estou estudando:
+
+    [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição breve do projeto e suas principais características.
-- [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma descrição breve do projeto e suas principais características.
-- [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma descrição breve do projeto e suas principais características.
+- [Projeto 1](https://github.com/FinanceControlProject/API): Uma descrição breve do projeto e suas principais características.
 
+![WesleyRodriguesDv GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyRodriguesDv&show_icons=true&theme=merko)
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
