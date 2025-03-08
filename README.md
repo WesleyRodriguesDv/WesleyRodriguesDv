@@ -8,7 +8,7 @@
 </div>
 
 ## 👋 Olá!
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+Sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento backend. Com uma solida experiência em algoritmos, estrutura de dados e construção de APIs estou sempre à procura de novas tecnologias e a novos desafios em projetos inovadores.
 
 ## 🚀 Habilidades Técnicas
 
