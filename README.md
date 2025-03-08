@@ -1,5 +1,5 @@
 <div align="center">
-  
+  ![image](https://github.com/user-attachments/assets/07f96be8-79d0-4fba-90a2-91a6300f8e01)
 </div>
 
 # [Wesley Rodrigues]
@@ -12,7 +12,6 @@
 </div>
 
 ## 👋 Olá!
-
 Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
 
 ## 🚀 Habilidades Técnicas
