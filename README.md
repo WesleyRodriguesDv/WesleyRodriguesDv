@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/43568da5-724c-4db2-b288-630a081613ef)
+  ![A-melhor-forma-de-aprender-logica-de-programacao-1](https://github.com/user-attachments/assets/793c040e-c1ba-491f-99d8-63a0f467e60b)
 </div>
 
 # [Wesley Rodrigues]
