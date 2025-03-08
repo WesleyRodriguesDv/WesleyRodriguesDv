@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+  
 </div>
 
 # [Wesley Rodrigues]
-![WesleyRodriguesDv GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyRodriguesDv&show_icons=true&theme=merko)
+
 
 <div> 
   <a href = "mailto:wesleyrodriiguesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -35,6 +35,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 - O que estou estudando:
 
     [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+
+  ![WesleyRodriguesDv GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyRodriguesDv&show_icons=true&theme=merko)
 
 ## 🏆 Projetos Destacados
 
