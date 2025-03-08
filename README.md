@@ -4,7 +4,7 @@
 
 # [Seu Nome]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/[https://www.linkedin.com/in/wesley-rodrigues-66b675304/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[https://www.linkedin.com/in/wesley-rodrigues-66b675304/]-blue?logo=linkedin)](https://www.linkedin.com/in/[https://www.linkedin.com/in/wesley-rodrigues-66b675304/])
 [![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Olá!
