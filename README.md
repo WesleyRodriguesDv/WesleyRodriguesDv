@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
     [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
-  ![WesleyRodriguesDv GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyRodriguesDv&show_icons=true&theme=merko)
+![WesleyRodriguesDv GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyRodriguesDv&show_icons=true&theme=dark)
 
 ## 🏆 Projetos Destacados
 
