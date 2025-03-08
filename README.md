@@ -35,6 +35,6 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/FinanceControlProject/API): Uma API para gerenciamento de finanças pessoais
+- [Personal Finance Management API](https://github.com/FinanceControlProject/API): Uma API para gerenciamento de finanças pessoais
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
