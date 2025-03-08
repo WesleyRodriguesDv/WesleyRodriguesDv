@@ -3,6 +3,7 @@
 </div>
 
 # [Wesley Rodrigues]
+![WesleyRodriguesDv GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyRodriguesDv&show_icons=true&theme=merko)
 
 <div> 
   <a href = "mailto:wesleyrodriiguesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -38,7 +39,5 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 ## 🏆 Projetos Destacados
 
 - [Projeto 1](https://github.com/FinanceControlProject/API): Uma API para gerenciamento de finanças pessoais
-
-![WesleyRodriguesDv GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyRodriguesDv&show_icons=true&theme=compact)
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
