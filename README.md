@@ -22,7 +22,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
-- Dados: 
+- Banco de Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
@@ -31,14 +31,13 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
-
 - O que estou estudando:
 
     [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
-- [Projeto 1](https://github.com/FinanceControlProject/API): Uma descrição breve do projeto e suas principais características.
+- [Projeto 1](https://github.com/FinanceControlProject/API): Uma API para gerenciamento de finanças pessoais
 
 ![WesleyRodriguesDv GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyRodriguesDv&show_icons=true&theme=merko)
 
