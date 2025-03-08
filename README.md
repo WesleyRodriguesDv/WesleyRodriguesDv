@@ -1,6 +1,6 @@
-<div align="center">
+
   ![A-melhor-forma-de-aprender-logica-de-programacao-1](https://github.com/user-attachments/assets/793c040e-c1ba-491f-99d8-63a0f467e60b)
-</div>
+
 
 # [Wesley Rodrigues]
 
