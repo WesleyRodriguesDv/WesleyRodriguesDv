@@ -1,5 +1,5 @@
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/07f96be8-79d0-4fba-90a2-91a6300f8e01)
+  ![image](https://github.com/user-attachments/assets/43568da5-724c-4db2-b288-630a081613ef)
 </div>
 
 # [Wesley Rodrigues]
