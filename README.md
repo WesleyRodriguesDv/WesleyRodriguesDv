@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
-<br>
 <div align="center"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-TS?style=for-the-badge&logo=typescript&logoColor=white&color=blue" alt= "TypeScript">
