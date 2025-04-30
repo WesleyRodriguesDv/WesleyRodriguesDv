@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=90&section=header"/>
 <p> Olá! Meu nome é Wesley Rodrigues, sou completamente entusiasmado por desenvolver aplicações e resolver problemas que me desafiam.
-Participo de projetos colaborativos e pessoais. Meu foco está em aplicações backend, como criação, manutenção e gerenciamento de APIs REST. Também tenho foco em desenvolvimento de processos automatizados e IAs. Conexão e gerenciamento de banco de dados (SQL or NoSQL); Gerenciamento de aplicações em Nuvem; Eficiência em estruturação, manipulação de dados e algoritmos. </p>
+Participo de projetos colaborativos e pessoais. Meu foco está em aplicações backend, como criação, manutenção e gerenciamento de APIs REST. Também tenho foco em desenvolvimento de processos automatizados e IAs. Conexão e gerenciamento de banco de dados (SQL or NoSQL); Eficiência em estruturação, manipulação de dados e algoritmos. </p>
 <br>
 <div align="center"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-TS?style=for-the-badge&logo=typescript&logoColor=white&color=blue" alt= "TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/NestJs-white?style=for-the-badge&logo=NestJs&logoColor=E0234E" alt= "NestJs">
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white" alt= "Docker">
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt= "MySQL">
   <img src="https://img.shields.io/badge/MongoDB-%23092E20?style=for-the-badge&logo=MongoDB" alt= "MongoDB">
-  <img src="https://img.shields.io/badge/Amazon-EC2-white?style=for-the-badge&logo=white&labelColor=black&color=%23FF9900" alt= "Amazon-EC2">
 </div>
 <br>
 
