@@ -5,7 +5,7 @@ Participo de projetos colaborativos, pessoais e academicos. Meu foco está em ap
 <div align="center"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "JavaScript">
   <img
-src="https://img.shields.io/badge/Typescript/TypeScript-777?style=for-the-badge&logo=typescript&logoColor=white&color=blue" alt= "Typescript">
+src="https://img.shields.io/badge/Typescript/TypeScript-777?style=for-the-badge&logo=typescript&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white" alt= "Docker">
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt= "MySQL">
   <img src="https://img.shields.io/badge/MongoDB-%23092E20?style=for-the-badge&logo=MongoDB" alt= "MongoDB">
