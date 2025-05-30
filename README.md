@@ -3,6 +3,8 @@
 Participo de projetos colaborativos, pessoais e academicos. Meu foco está em aplicações backend, como criação, manutenção e gerenciamento de APIs REST mas também domino o básico para um programador frontend. Construção e integração de banco de dados SQL e NoSQL também são meus fortes;Sempre focado na eficiência em estruturação, manipulação de dados e algoritmos. </p>
 <br>
 <div align="center"><br>
+  <img src="https://img.shields.io/badge/.NET%20-%20?style=for-the-badge&logo=dotnet&color=%23512BD4" alt= ".NET">
+  <img src="https://img.shields.io/badge/C%23%20-%20black?style=for-the-badge&logoColor=white&color=%23512BD4" alt= "C#">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt= "JavaScript">
   <img
 src="https://img.shields.io/badge/TypeScript-777?style=for-the-badge&logo=typescript&logoColor=white&color=blue">
