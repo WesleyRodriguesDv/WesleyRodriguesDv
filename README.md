@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=90&section=header"/>
 <p> Olá! Meu nome é Wesley Rodrigues, sou completamente entusiasmado por desenvolver aplicações e resolver problemas que me desafiam.
-Participo de projetos colaborativos, pessoais e academicos. Meu foco está em aplicações backend, como criação, manutenção e gerenciamento de APIs REST mas também domino o básico para um programador frontend. Construção e integração de banco de dados SQL e NoSQL também são meus fortes;Sempre focado na eficiência em estruturação, manipulação de dados e algoritmos. </p>
+Participo de projetos colaborativos, pessoais e academicos. Meu foco está em aplicações backend, como criação, manutenção e gerenciamento de APIs REST mas também domino o básico para um programador frontend. Construção e integração de banco de dados SQL e NoSQL também são meus fortes; Sempre focado na eficiência em estruturação, manipulação de dados e algoritmos. </p>
 <br>
 <div align="center"><br>
   <img src="https://img.shields.io/badge/.NET%20-%20?style=for-the-badge&logo=dotnet&color=%23512BD4" alt= ".NET">
