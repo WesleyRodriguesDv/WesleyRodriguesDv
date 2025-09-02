@@ -12,6 +12,8 @@ src="https://img.shields.io/badge/TypeScript-777?style=for-the-badge&logo=typesc
 </div>
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WesleyRodriguesDv&bg_color=000000&color=9b56d3&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Wesley+Rodrigues;I'm+from+Rio+De+Janeiro,+RJ;I+am+backend+developer;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
